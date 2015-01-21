@@ -12,3 +12,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
        "\       "      \X/      "      /"'
 
 puts data
+
+puts "Ik was hier"
